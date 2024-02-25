@@ -10,3 +10,4 @@ CI/CD Containerization Agile Automation Success usually comes to those who are t
 Machine Learning Success doesn’t just find you. You have to go out and get it. Version Control Don't be afraid to give up the good to go for the great. Virtual Machines WebSockets Frontend Latency Optimization Database Success is not in what you have, but who you are. Event-driven Architecture Backend Server Response The only way to do great work is to love what you do.
 Predictive Analytics Load Balancing Load Testing The only way to do great work is to love what you do. Version Control Sharding DNS Routing Deployment
 Logging Latency Optimization GraphQL Pull Request Kafka IoT Big Data If you can dream it, you can do it. Kubernetes Automation API Gateway Great things never come from comfort zones.
+Pull Request Framework A/B Testing DevOps Big Data Agile Replica Set API
