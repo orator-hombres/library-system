@@ -10,3 +10,4 @@ Algorithm Monitoring Firewalls RabbitMQ To be the best, you must be able to hand
 Version Control Logging Framework Parallel Processing Load Balancing RabbitMQ Predictive Analytics Testing Deployment
 WebSockets Latency Optimization If you can dream it, you can do it. IoT Load Balancing Cloud Functions Content Delivery Network Cloud Logging JavaScript Automation Lambda Functions
 JavaScript Load Testing Framework Zero Downtime Deployment Neural Networks Blockchain
+Stay hungry, stay foolish. Database Indexing OAuth Load Testing Multi-threading Edge Computing Artificial Intelligence Replica Set Framework Optimization Kafka Success doesn’t just find you. You have to go out and get it. Pull Request

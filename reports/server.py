@@ -9,3 +9,4 @@ Neural Networks Automation Great things never come from comfort zones. Backend A
 Kubernetes Distributed Systems Big Data Opportunities don't happen. You create them. Performance Docker UX Optimization Testing
 Monitoring Agile JWT Message Queue DevOps
 Frontend Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Virtual Machines The only way to do great work is to love what you do. Database Indexing Success doesn’t just find you. You have to go out and get it. Neural Networks Deployment React Data Science
+Blockchain Docker Performance A/B Testing Version Control Microservices Monitoring Parallel Processing Data Pipeline Lambda Functions RabbitMQ Distributed Systems

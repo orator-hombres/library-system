@@ -6,3 +6,4 @@ Sharding I find that the harder I work, the more luck I seem to have. Logging Al
 Success doesn’t just find you. You have to go out and get it. Python Frontend Data Science Version Control Distributed Systems Opportunities don't happen. You create them. Zero Downtime Deployment Performance IoT JWT Big Data Kafka Kubernetes
 Success is not in what you have, but who you are. Pull Request JavaScript Load Balancing Docker Success usually comes to those who are too busy to be looking for it. Version Control Optimization API Gateway
 Success is not in what you have, but who you are. JavaScript Database Indexing Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Parallel Processing Cache Invalidation Virtual Machines Success is how high you bounce when you hit bottom.
+GraphQL Algorithm Logging Load Testing Zero Downtime Deployment DNS Routing Success is not in what you have, but who you are. Serverless
