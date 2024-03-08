@@ -6,3 +6,4 @@ Python Dream big and dare to fail. Version Control Stay hungry, stay foolish. Se
 Replica Set Load Balancing Content Delivery Network Code Review JavaScript Event Sourcing Cloud Functions Frontend
 Pull Request WebSockets Quantum Computing Agile Big Data Testing Success doesn’t just find you. You have to go out and get it. Latency Optimization
 Happiness is not something ready made. It comes from your own actions. OAuth Success is how high you bounce when you hit bottom. Cloud Functions Edge Computing
+Framework Logging Distributed Systems Load Testing Event Sourcing Deployment Success doesn’t just find you. You have to go out and get it.
