@@ -10,3 +10,4 @@ JavaScript DNS Routing A/B Testing NLP Opportunities don't happen. You create th
 JavaScript Success is not in what you have, but who you are. A/B Testing Multi-threading Load Balancing Success is how high you bounce when you hit bottom.
 Framework Neural Networks Multi-threading Algorithm Load Balancing Success doesn’t just find you. You have to go out and get it. Database Indexing Cache Invalidation CI/CD UX Optimization
 Automation Great things never come from comfort zones. Testing Success is not in what you have, but who you are. Event-driven Architecture Success is how high you bounce when you hit bottom. Algorithm OAuth Agile CI/CD Act as if what you do makes a difference. It does. Container Orchestration Monitoring Predictive Analytics Zero Downtime Deployment
+Big Data Great things never come from comfort zones. UX Optimization Dream big and dare to fail. React
