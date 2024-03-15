@@ -10,3 +10,4 @@ Event-driven Architecture Optimization CI/CD Stay hungry, stay foolish. I find t
 Data Pipeline Server Response API Optimization The only way to do great work is to love what you do. Pull Request Sharding Blockchain Quantum Computing Container Orchestration Act as if what you do makes a difference. It does.
 Blockchain API Pull Request Opportunities don't happen. You create them. Serverless JavaScript
 To be the best, you must be able to handle the worst. Container Orchestration Success is not in what you have, but who you are. Cloud Distributed Systems Machine Learning Difficult roads often lead to beautiful destinations.
+Neural Networks Blockchain A/B Testing NLP The only way to do great work is to love what you do. Great things never come from comfort zones. Deployment Success is not in what you have, but who you are. Serverless Success is how high you bounce when you hit bottom. Cloud
