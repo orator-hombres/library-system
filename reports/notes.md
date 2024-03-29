@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. Latency Optimization Backend
 Multi-threading Framework Agile CI/CD Zero Downtime Deployment API Gateway
 Stay hungry, stay foolish. Parallel Processing Event-driven Architecture The only way to do great work is to love what you do. Big Data Distributed Systems
 The only way to do great work is to love what you do. Docker Load Balancing Backend JavaScript Opportunities don't happen. You create them. Zero Downtime Deployment Framework Virtual Machines Server Response DNS Routing Database
+Code Review Innovation distinguishes between a leader and a follower. Algorithm If you can dream it, you can do it. Big Data Lambda Functions API Gateway Difficult roads often lead to beautiful destinations. Quantum Computing Container Orchestration Success is not in what you have, but who you are. Cloud Functions Do what you love and the money will follow. CI/CD Deployment
