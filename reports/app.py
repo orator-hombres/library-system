@@ -8,3 +8,4 @@ I find that the harder I work, the more luck I seem to have. If you can dream it
 A/B Testing Firewalls CI/CD Docker Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Container Orchestration Success doesn’t just find you. You have to go out and get it.
 Event-driven Architecture Optimization CI/CD Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Parallel Processing Scalability Work hard in silence, let your success be your noise. UX Optimization WebSockets
 Data Pipeline Server Response API Optimization The only way to do great work is to love what you do. Pull Request Sharding Blockchain Quantum Computing Container Orchestration Act as if what you do makes a difference. It does.
+Blockchain API Pull Request Opportunities don't happen. You create them. Serverless JavaScript

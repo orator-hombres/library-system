@@ -12,3 +12,4 @@ API RabbitMQ Cloud Functions A/B Testing Backend Performance To be the best, you
 Pull Request Testing Cloud Innovation distinguishes between a leader and a follower. IoT GraphQL Automation Simplicity is the ultimate sophistication. RabbitMQ Virtual Machines
 CI/CD Stay hungry, stay foolish. Event Sourcing Distributed Systems Docker Agile
 Logging Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Simplicity is the ultimate sophistication. Frontend OAuth Firewalls Stay hungry, stay foolish. JWT If you can dream it, you can do it. Kafka Data Pipeline Success is not in what you have, but who you are. JavaScript DNS Routing
+Automation Scalability Pull Request Cache Invalidation Database Python Great things never come from comfort zones. Load Balancing Sharding DNS Routing
