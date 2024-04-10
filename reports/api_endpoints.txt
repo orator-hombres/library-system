@@ -10,3 +10,4 @@ Replica Set The only way to do great work is to love what you do. Event Sourcing
 Cloud Functions Event Sourcing JavaScript Python Firewalls API Stay hungry, stay foolish.
 Logging Database Distributed Systems Deployment Neural Networks Cache Invalidation Firewalls Code Review Quantum Computing Optimization
 Kubernetes Performance Edge Computing Success doesn’t just find you. You have to go out and get it. Data Science Pull Request Algorithm OAuth
+Machine Learning API Content Delivery Network Stay hungry, stay foolish. React Data Science Optimization

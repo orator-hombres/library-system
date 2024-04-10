@@ -12,3 +12,4 @@ To be the best, you must be able to handle the worst. Multi-threading Microservi
 Great things never come from comfort zones. Scalability JavaScript Kubernetes Security Testing UX Optimization Message Queue Firewalls Event Sourcing Backend Zero Downtime Deployment API If you can dream it, you can do it. Replica Set
 Content Delivery Network Container Orchestration JWT Simplicity is the ultimate sophistication. Zero Downtime Deployment
 Automation Database Indexing Kafka Frontend DevOps Latency Optimization
+I find that the harder I work, the more luck I seem to have. Cache Invalidation The only way to do great work is to love what you do. IoT API Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Microservices
