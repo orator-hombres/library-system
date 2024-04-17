@@ -9,3 +9,4 @@ Success is how high you bounce when you hit bottom. Quantum Computing Cloud Don'
 Replica Set The only way to do great work is to love what you do. Event Sourcing Agile Kafka Data Science Don't be afraid to give up the good to go for the great. Content Delivery Network Machine Learning
 Cloud Functions Event Sourcing JavaScript Python Firewalls API Stay hungry, stay foolish.
 Logging Database Distributed Systems Deployment Neural Networks Cache Invalidation Firewalls Code Review Quantum Computing Optimization
+Kubernetes Performance Edge Computing Success doesn’t just find you. You have to go out and get it. Data Science Pull Request Algorithm OAuth
