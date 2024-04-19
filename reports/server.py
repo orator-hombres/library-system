@@ -6,3 +6,4 @@ Predictive Analytics Load Testing Latency Optimization Code Review Difficult roa
 Load Testing Testing GraphQL IoT Quantum Computing NLP Backend Success is not in what you have, but who you are. Replica Set If you can dream it, you can do it. Kubernetes Event-driven Architecture Content Delivery Network Stay hungry, stay foolish. Blockchain
 Container Orchestration GraphQL Simplicity is the ultimate sophistication. Multi-threading Opportunities don't happen. You create them. JWT A/B Testing Parallel Processing Optimization Automation Data Science
 Neural Networks Automation Great things never come from comfort zones. Backend Artificial Intelligence RabbitMQ Big Data
+Kubernetes Distributed Systems Big Data Opportunities don't happen. You create them. Performance Docker UX Optimization Testing
