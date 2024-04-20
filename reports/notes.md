@@ -11,3 +11,4 @@ Data Pipeline Don't be afraid to give up the good to go for the great. Agile Loa
 Success is how high you bounce when you hit bottom. Latency Optimization Backend Success doesn’t just find you. You have to go out and get it. Agile Dream big and dare to fail. Artificial Intelligence Multi-threading I find that the harder I work, the more luck I seem to have. Container Orchestration GraphQL Cloud A/B Testing
 Multi-threading Framework Agile CI/CD Zero Downtime Deployment API Gateway
 Stay hungry, stay foolish. Parallel Processing Event-driven Architecture The only way to do great work is to love what you do. Big Data Distributed Systems
+The only way to do great work is to love what you do. Docker Load Balancing Backend JavaScript Opportunities don't happen. You create them. Zero Downtime Deployment Framework Virtual Machines Server Response DNS Routing Database
