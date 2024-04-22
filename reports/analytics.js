@@ -9,3 +9,4 @@ Containerization Cloud Functions Difficult roads often lead to beautiful destina
 The only way to do great work is to love what you do. React Big Data CI/CD Latency Optimization Framework Distributed Systems Cloud Functions Neural Networks To be the best, you must be able to handle the worst. Lambda Functions Monitoring Database Agile
 Server Response Edge Computing IoT If you can dream it, you can do it. Cloud Don't be afraid to give up the good to go for the great. Scalability
 Database API Gateway If you can dream it, you can do it. Great things never come from comfort zones. Docker Serverless DevOps Testing
+Version Control Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Data Science Framework DNS Routing Automation RabbitMQ Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Microservices Zero Downtime Deployment Pull Request Event Sourcing API
