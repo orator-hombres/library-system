@@ -8,3 +8,4 @@ DevOps Serverless Latency Optimization Content Delivery Network Version Control 
 Containerization Cloud Functions Difficult roads often lead to beautiful destinations. IoT Sharding Kafka Edge Computing Data Science Load Balancing Simplicity is the ultimate sophistication. Database Indexing Latency Optimization Quantum Computing Agile WebSockets
 The only way to do great work is to love what you do. React Big Data CI/CD Latency Optimization Framework Distributed Systems Cloud Functions Neural Networks To be the best, you must be able to handle the worst. Lambda Functions Monitoring Database Agile
 Server Response Edge Computing IoT If you can dream it, you can do it. Cloud Don't be afraid to give up the good to go for the great. Scalability
+Database API Gateway If you can dream it, you can do it. Great things never come from comfort zones. Docker Serverless DevOps Testing
