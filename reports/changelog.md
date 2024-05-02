@@ -17,3 +17,4 @@ Cloud Functions Kafka Blockchain Act as if what you do makes a difference. It do
 Code Review Difficult roads often lead to beautiful destinations. A/B Testing Serverless Python
 Opportunities don't happen. You create them. Firewalls IoT To be the best, you must be able to handle the worst. DevOps Kubernetes Big Data Security
 Code Review Container Orchestration GraphQL OAuth Frontend Monitoring API Gateway Automation Docker Kubernetes Database Firewalls Data Science
+OAuth API Framework Content Delivery Network CI/CD Version Control WebSockets RabbitMQ Logging Quantum Computing DNS Routing
