@@ -15,3 +15,4 @@ Kubernetes Edge Computing Sharding Cloud Load Testing API Gateway Work hard in s
 Data Science Backend Pull Request Distributed Systems Database Indexing WebSockets Dream big and dare to fail. To be the best, you must be able to handle the worst. Code Review Data Pipeline Stay hungry, stay foolish.
 Cloud Functions Kafka Blockchain Act as if what you do makes a difference. It does. Agile Distributed Systems Success doesn’t just find you. You have to go out and get it.
 Code Review Difficult roads often lead to beautiful destinations. A/B Testing Serverless Python
+Opportunities don't happen. You create them. Firewalls IoT To be the best, you must be able to handle the worst. DevOps Kubernetes Big Data Security
