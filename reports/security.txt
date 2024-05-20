@@ -10,3 +10,4 @@ Deployment Innovation distinguishes between a leader and a follower. Database Op
 Great things never come from comfort zones. Scalability Edge Computing JavaScript Act as if what you do makes a difference. It does. Load Testing Kubernetes JWT Database Distributed Systems OAuth Logging
 To be the best, you must be able to handle the worst. Multi-threading Microservices Code Review RabbitMQ Database Indexing Load Testing Scalability Sharding Kafka Data Science
 Great things never come from comfort zones. Scalability JavaScript Kubernetes Security Testing UX Optimization Message Queue Firewalls Event Sourcing Backend Zero Downtime Deployment API If you can dream it, you can do it. Replica Set
+Content Delivery Network Container Orchestration JWT Simplicity is the ultimate sophistication. Zero Downtime Deployment
