@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Data Science Success is not in what
 Dream big and dare to fail. API Backend The only way to do great work is to love what you do. Code Review
 Testing Success doesn’t just find you. You have to go out and get it. Event Sourcing Big Data Great things never come from comfort zones.
 Success is how high you bounce when you hit bottom. Quantum Computing Cloud Don't be afraid to give up the good to go for the great. RabbitMQ Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. IoT Lambda Functions
+Replica Set The only way to do great work is to love what you do. Event Sourcing Agile Kafka Data Science Don't be afraid to give up the good to go for the great. Content Delivery Network Machine Learning
