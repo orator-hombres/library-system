@@ -10,3 +10,4 @@ Replica Set Big Data The only way to do great work is to love what you do. Succe
 Backend Security Success is not in what you have, but who you are. Container Orchestration Stay hungry, stay foolish. Parallel Processing Monitoring RabbitMQ Neural Networks CI/CD Content Delivery Network WebSockets Cloud Functions API Lambda Functions
 WebSockets Success doesn’t just find you. You have to go out and get it. DevOps To be the best, you must be able to handle the worst. OAuth Scalability Kafka Monitoring
 Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Monitoring Data Science Server Response NLP Machine Learning Success doesn’t just find you. You have to go out and get it. Backend Cloud Functions
+Version Control Latency Optimization OAuth Kubernetes Monitoring Dream big and dare to fail. Performance NLP Automation
