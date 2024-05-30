@@ -7,3 +7,4 @@ Edge Computing Agile Event-driven Architecture Message Queue Algorithm Firewalls
 DNS Routing If you can dream it, you can do it. Event Sourcing Code Review Server Response
 Database Replica Set Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Container Orchestration Cloud Functions Success is not in what you have, but who you are. Sharding Data Science Containerization JWT Event-driven Architecture
 Algorithm Monitoring Firewalls RabbitMQ To be the best, you must be able to handle the worst. Server Response Load Testing Parallel Processing Act as if what you do makes a difference. It does. Lambda Functions Database Simplicity is the ultimate sophistication. OAuth
+Version Control Logging Framework Parallel Processing Load Balancing RabbitMQ Predictive Analytics Testing Deployment
