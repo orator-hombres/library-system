@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Kafka Success doesn’t just
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. API Gateway Sharding Distributed Systems Algorithm Database Indexing Automation Container Orchestration API Load Balancing CI/CD Virtual Machines
 Edge Computing Agile Event-driven Architecture Message Queue Algorithm Firewalls Python Cloud Functions Dream big and dare to fail.
 DNS Routing If you can dream it, you can do it. Event Sourcing Code Review Server Response
+Database Replica Set Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Container Orchestration Cloud Functions Success is not in what you have, but who you are. Sharding Data Science Containerization JWT Event-driven Architecture

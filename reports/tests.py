@@ -7,3 +7,4 @@ Content Delivery Network Sharding Cache Invalidation OAuth Scalability Framework
 Scalability JWT WebSockets Great things never come from comfort zones. Frontend
 Edge Computing Multi-threading Virtual Machines To be the best, you must be able to handle the worst. Event Sourcing Great things never come from comfort zones. Logging Simplicity is the ultimate sophistication. DNS Routing Data Science Kubernetes API Gateway Load Balancing
 Replica Set Big Data The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. JavaScript Dream big and dare to fail. Simplicity is the ultimate sophistication. Event Sourcing GraphQL
+Backend Security Success is not in what you have, but who you are. Container Orchestration Stay hungry, stay foolish. Parallel Processing Monitoring RabbitMQ Neural Networks CI/CD Content Delivery Network WebSockets Cloud Functions API Lambda Functions
