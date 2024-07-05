@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. Opportunities don't happen
 Lambda Functions Replica Set Happiness is not something ready made. It comes from your own actions. Optimization Message Queue
 I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Firewalls Algorithm Quantum Computing Success is how high you bounce when you hit bottom. Optimization A/B Testing
 A/B Testing Firewalls CI/CD Docker Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Container Orchestration Success doesn’t just find you. You have to go out and get it.
+Event-driven Architecture Optimization CI/CD Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Parallel Processing Scalability Work hard in silence, let your success be your noise. UX Optimization WebSockets
