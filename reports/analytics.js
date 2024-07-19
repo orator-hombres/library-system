@@ -5,3 +5,4 @@ Firewalls OAuth Stay hungry, stay foolish. Load Testing I find that the harder I
 Cloud Functions JWT Multi-threading Framework Version Control Container Orchestration Success is how high you bounce when you hit bottom. Code Review Pull Request Event Sourcing Kafka
 CI/CD Sharding Event-driven Architecture Do what you love and the money will follow. Database RabbitMQ Server Response Performance
 DevOps Serverless Latency Optimization Content Delivery Network Version Control Event Sourcing Zero Downtime Deployment RabbitMQ Success is not in what you have, but who you are. Containerization Optimization Container Orchestration Blockchain NLP
+Containerization Cloud Functions Difficult roads often lead to beautiful destinations. IoT Sharding Kafka Edge Computing Data Science Load Balancing Simplicity is the ultimate sophistication. Database Indexing Latency Optimization Quantum Computing Agile WebSockets
