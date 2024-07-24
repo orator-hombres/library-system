@@ -5,3 +5,4 @@ Multi-threading The only way to do great work is to love what you do. Algorithm 
 React Frontend Security Deployment The only way to do great work is to love what you do. Lambda Functions Distributed Systems Big Data Code Review Version Control
 Predictive Analytics Scalability Deployment Data Pipeline Code Review Content Delivery Network Event-driven Architecture Kafka Simplicity is the ultimate sophistication. GraphQL UX Optimization Quantum Computing JavaScript Sharding RabbitMQ
 Happiness is not something ready made. It comes from your own actions. Framework Cloud Functions Quantum Computing Server Response Act as if what you do makes a difference. It does. Security Predictive Analytics Load Balancing Microservices Event-driven Architecture
+Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Performance Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower.
