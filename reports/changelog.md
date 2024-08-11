@@ -10,3 +10,4 @@ Success doesn’t just find you. You have to go out and get it. Load Testing A/B T
 Pull Request Code Review Simplicity is the ultimate sophistication. WebSockets Lambda Functions Zero Downtime Deployment Microservices A/B Testing Replica Set To be the best, you must be able to handle the worst.
 Load Testing React Serverless Load Balancing Algorithm Distributed Systems Database Indexing Cloud Functions Latency Optimization
 IoT Logging Cache Invalidation JWT Server Response Python Blockchain To be the best, you must be able to handle the worst. Testing Deployment Replica Set Scalability
+Agile Big Data Logging Event Sourcing OAuth Happiness is not something ready made. It comes from your own actions. JavaScript WebSockets Great things never come from comfort zones. Virtual Machines Edge Computing Content Delivery Network I find that the harder I work, the more luck I seem to have. Cloud The only way to do great work is to love what you do.

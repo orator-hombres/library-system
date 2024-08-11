@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Lambda Functions Dream big a
 Difficult roads often lead to beautiful destinations. Kafka Success doesn’t just find you. You have to go out and get it. Multi-threading Agile Do what you love and the money will follow. Load Testing Distributed Systems Load Balancing API Gateway Cache Invalidation Success is how high you bounce when you hit bottom.
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. API Gateway Sharding Distributed Systems Algorithm Database Indexing Automation Container Orchestration API Load Balancing CI/CD Virtual Machines
 Edge Computing Agile Event-driven Architecture Message Queue Algorithm Firewalls Python Cloud Functions Dream big and dare to fail.
+DNS Routing If you can dream it, you can do it. Event Sourcing Code Review Server Response
