@@ -4,3 +4,4 @@ Kafka A/B Testing I find that the harder I work, the more luck I seem to have. B
 Multi-threading The only way to do great work is to love what you do. Algorithm Scalability If you can dream it, you can do it.
 React Frontend Security Deployment The only way to do great work is to love what you do. Lambda Functions Distributed Systems Big Data Code Review Version Control
 Predictive Analytics Scalability Deployment Data Pipeline Code Review Content Delivery Network Event-driven Architecture Kafka Simplicity is the ultimate sophistication. GraphQL UX Optimization Quantum Computing JavaScript Sharding RabbitMQ
+Happiness is not something ready made. It comes from your own actions. Framework Cloud Functions Quantum Computing Server Response Act as if what you do makes a difference. It does. Security Predictive Analytics Load Balancing Microservices Event-driven Architecture
