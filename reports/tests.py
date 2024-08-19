@@ -5,3 +5,4 @@ DNS Routing Content Delivery Network Firewalls Kubernetes Event-driven Architect
 JavaScript Success is how high you bounce when you hit bottom. Scalability Cloud Functions Distributed Systems Act as if what you do makes a difference. It does. OAuth Parallel Processing Kafka Virtual Machines
 Content Delivery Network Sharding Cache Invalidation OAuth Scalability Framework Distributed Systems Testing Python Data Pipeline Backend
 Scalability JWT WebSockets Great things never come from comfort zones. Frontend
+Edge Computing Multi-threading Virtual Machines To be the best, you must be able to handle the worst. Event Sourcing Great things never come from comfort zones. Logging Simplicity is the ultimate sophistication. DNS Routing Data Science Kubernetes API Gateway Load Balancing
