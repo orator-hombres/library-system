@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Kafka Sharding Container Orc
 DNS Routing Content Delivery Network Firewalls Kubernetes Event-driven Architecture Success is not in what you have, but who you are. Server Response
 JavaScript Success is how high you bounce when you hit bottom. Scalability Cloud Functions Distributed Systems Act as if what you do makes a difference. It does. OAuth Parallel Processing Kafka Virtual Machines
 Content Delivery Network Sharding Cache Invalidation OAuth Scalability Framework Distributed Systems Testing Python Data Pipeline Backend
+Scalability JWT WebSockets Great things never come from comfort zones. Frontend
