@@ -3,3 +3,4 @@ Quantum Computing Data Science Code Review Version Control React Server Response
 Algorithm Multi-threading Deployment Do what you love and the money will follow. Kafka Security Big Data Success is how high you bounce when you hit bottom. Load Testing Microservices CI/CD API Content Delivery Network
 Pull Request Optimization Artificial Intelligence Parallel Processing Docker Sharding Frontend Quantum Computing Microservices
 Opportunities don't happen. You create them. Data Science Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. DNS Routing API Gateway Python Machine Learning If you can dream it, you can do it. Performance Big Data
+Dream big and dare to fail. API Backend The only way to do great work is to love what you do. Code Review
