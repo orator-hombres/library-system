@@ -4,3 +4,4 @@ Kubernetes Innovation distinguishes between a leader and a follower. To be the b
 Performance Automation Success usually comes to those who are too busy to be looking for it. Quantum Computing Code Review Python
 Parallel Processing RabbitMQ Kafka Great things never come from comfort zones. Replica Set Data Pipeline Containerization API Dream big and dare to fail.
 GraphQL Message Queue Deployment Do what you love and the money will follow. Lambda Functions Containerization Blockchain Docker
+RabbitMQ Deployment Simplicity is the ultimate sophistication. Lambda Functions Monitoring Sharding To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Security Big Data Server Response
