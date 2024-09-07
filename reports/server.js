@@ -3,3 +3,4 @@ Lambda Functions Load Testing Virtual Machines Framework API Gateway Distributed
 Kubernetes Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Sharding Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Optimization Replica Set
 Performance Automation Success usually comes to those who are too busy to be looking for it. Quantum Computing Code Review Python
 Parallel Processing RabbitMQ Kafka Great things never come from comfort zones. Replica Set Data Pipeline Containerization API Dream big and dare to fail.
+GraphQL Message Queue Deployment Do what you love and the money will follow. Lambda Functions Containerization Blockchain Docker
