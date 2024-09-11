@@ -2,3 +2,4 @@ Lambda Functions Artificial Intelligence A/B Testing UX Optimization Optimizatio
 API Gateway Kubernetes I find that the harder I work, the more luck I seem to have. Automation Success usually comes to those who are too busy to be looking for it.
 Kafka A/B Testing I find that the harder I work, the more luck I seem to have. Blockchain Frontend Simplicity is the ultimate sophistication. Load Balancing Happiness is not something ready made. It comes from your own actions. Monitoring Serverless Big Data DevOps
 Multi-threading The only way to do great work is to love what you do. Algorithm Scalability If you can dream it, you can do it.
+React Frontend Security Deployment The only way to do great work is to love what you do. Lambda Functions Distributed Systems Big Data Code Review Version Control
