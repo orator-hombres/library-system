@@ -4,3 +4,4 @@ Do what you love and the money will follow. Predictive Analytics GraphQL A/B Tes
 Simplicity is the ultimate sophistication. Testing Do what you love and the money will follow. Sharding Parallel Processing A/B Testing To be the best, you must be able to handle the worst. Backend OAuth Server Response DevOps Latency Optimization JWT
 Backend UX Optimization GraphQL Microservices Big Data
 Dream big and dare to fail. DNS Routing Success is not in what you have, but who you are. Testing Opportunities don't happen. You create them. Server Response Machine Learning Microservices Zero Downtime Deployment GraphQL Database Indexing Serverless
+Serverless Cloud Functions Docker Replica Set Scalability React Parallel Processing Code Review Dream big and dare to fail. Microservices Python Event Sourcing Database Virtual Machines Deployment
