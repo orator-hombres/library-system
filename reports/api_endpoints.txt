@@ -1,3 +1,4 @@
 Data Science Success usually comes to those who are too busy to be looking for it. Multi-threading Cloud Functions Success is not in what you have, but who you are. Kafka Kubernetes Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
 Quantum Computing Data Science Code Review Version Control React Server Response GraphQL DNS Routing
 Algorithm Multi-threading Deployment Do what you love and the money will follow. Kafka Security Big Data Success is how high you bounce when you hit bottom. Load Testing Microservices CI/CD API Content Delivery Network
+Pull Request Optimization Artificial Intelligence Parallel Processing Docker Sharding Frontend Quantum Computing Microservices
