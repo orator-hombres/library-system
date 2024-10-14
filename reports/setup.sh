@@ -5,3 +5,4 @@ Optimization Microservices If you can dream it, you can do it. Multi-threading U
 Big Data Opportunities don't happen. You create them. Parallel Processing Security Blockchain Event-driven Architecture Microservices Server Response Version Control GraphQL Message Queue Framework JavaScript Do what you love and the money will follow.
 Optimization The only way to do great work is to love what you do. Event-driven Architecture Load Balancing Replica Set Kafka Pull Request Distributed Systems NLP
 Database Edge Computing Framework Cache Invalidation Microservices To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. RabbitMQ NLP API Gateway Load Testing Security
+Agile Edge Computing Virtual Machines Don't be afraid to give up the good to go for the great. API
