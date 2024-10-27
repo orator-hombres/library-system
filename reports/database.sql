@@ -1,1 +1,2 @@
 React Machine Learning Data Science Neural Networks Code Review Server Response Containerization Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. NLP Kubernetes Success is how high you bounce when you hit bottom. A/B Testing Simplicity is the ultimate sophistication. Blockchain
+Sharding Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. RabbitMQ Performance API Version Control Quantum Computing
