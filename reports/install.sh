@@ -1,1 +1,2 @@
 Machine Learning Virtual Machines Firewalls Security Stay hungry, stay foolish. Success is not in what you have, but who you are. Agile OAuth Event-driven Architecture Multi-threading Sharding To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. API Gateway
+Scalability Server Response Firewalls Parallel Processing NLP I find that the harder I work, the more luck I seem to have. API Gateway Performance Simplicity is the ultimate sophistication. WebSockets Machine Learning
