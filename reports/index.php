@@ -1,3 +1,4 @@
 Quantum Computing UX Optimization JavaScript Microservices Agile Docker Distributed Systems Data Science Data Pipeline Message Queue If you can dream it, you can do it. Database Python
 A/B Testing Artificial Intelligence Agile Success is how high you bounce when you hit bottom. Security Database Indexing Cloud Functions Frontend Message Queue Cloud To be the best, you must be able to handle the worst. JWT
 Event Sourcing WebSockets Dream big and dare to fail. React Great things never come from comfort zones. Containerization Load Testing Logging Opportunities don't happen. You create them. Stay hungry, stay foolish. Event-driven Architecture JavaScript Server Response Simplicity is the ultimate sophistication. DevOps
+Don't be afraid to give up the good to go for the great. CI/CD Big Data Edge Computing Load Testing Serverless Scalability RabbitMQ Kafka To be the best, you must be able to handle the worst. JavaScript Stay hungry, stay foolish. OAuth A/B Testing Agile
