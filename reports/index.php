@@ -1,1 +1,2 @@
 Quantum Computing UX Optimization JavaScript Microservices Agile Docker Distributed Systems Data Science Data Pipeline Message Queue If you can dream it, you can do it. Database Python
+A/B Testing Artificial Intelligence Agile Success is how high you bounce when you hit bottom. Security Database Indexing Cloud Functions Frontend Message Queue Cloud To be the best, you must be able to handle the worst. JWT
